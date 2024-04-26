@@ -1,3 +1,9 @@
 # Pinetour
 
-<a href: src"https://strunit.github.io/Pinetour/" target: blank> Pinetour Link <a>
+<a href="https://strunit.github.io/Pinetour/" target="_blank"
+            ><button>
+            Link
+            </button></a
+          >
+
+
